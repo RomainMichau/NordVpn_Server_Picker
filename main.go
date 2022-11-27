@@ -35,7 +35,6 @@ func main() {
 
 		}
 	}
-
 }
 
 func parseParams() (*Params, error) {
